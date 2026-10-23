@@ -1,4 +1,4 @@
-# 💢 ShardBeats — TRAKK Family
+# 💢 ShardBeats — TRAKK SUITE
 
 Simple, lightweight, offline-first tools that solve real beatmaker problems.
 No accounts, no mandatory cloud. Everything portable as `.exe`.
