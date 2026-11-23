@@ -26,3 +26,9 @@ No accounts, no mandatory cloud. Everything portable as `.exe`.
 
 > Ex `SP-404MK2SimpleConverter` → now `TRAKKCONVERTER`.
 > Ex `simple-peak-normalizer` → now `TRAKKNORMALIZER`.
+
+### License
+
+App code: **GPL-3.0-only** (see each repo's `LICENSE` + `LICENSING.md`).
+Versions published before 2026-11-23 remain under their original MIT terms.
+`ShardBeats` / `TRAKK` names and logos are trademarks — forks must rebrand.
